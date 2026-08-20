@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seraphim.github.io/melfic/sitemap.xml
